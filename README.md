@@ -1,1 +1,2 @@
 # minhas-aulas
+ALTERANDO UM ARQUIVO DE FORMA LOCAL
